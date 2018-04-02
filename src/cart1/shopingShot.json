@@ -1,0 +1,30 @@
+{
+  "datas" : [
+    {
+      "name" : "小米",
+      "description" : "1600万像素柔光自拍，",
+      "money" : 10,
+      "isSelect" : false,
+      "img" : "https://img14.360buyimg.com/n7/jfs/t3151/314/5710217395/97069/4a6f06ef/5881a134Nb7bd8f57.jpg",
+      "count" : 5
+    },
+    {
+      "name" : "水星（MERCURY）",
+      "description" : "水星新一代轻彩设计",
+      "money" : 20,
+      "isSelect" : false,
+      "img" : "https://img10.360buyimg.com/n7/jfs/t4063/153/323373745/444727/87c24f22/58b11156N9be178c2.jpg",
+      "count" : 1
+    },
+    {
+      "name" : "小天鹅(LittleSwan)",
+      "description" : "【新品预售】预付100元抵900！！",
+      "money" : 5,
+      "isSelect" : false,
+      "img" : "https://img10.360buyimg.com/n7/jfs/t4063/153/323373745/444727/87c24f22/58b11156N9be178c2.jpg",
+      "count" : 1
+    }
+  ],
+  "isAllSelect" : false,
+  "totalMoney" : 0
+}
